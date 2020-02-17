@@ -1,0 +1,2 @@
+# mercurycash
+Coding test
